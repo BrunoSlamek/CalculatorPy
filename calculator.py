@@ -11,7 +11,7 @@ Calculadora em Python
 
 print("\n" * 15)
 
-print("\n******Python Calculator******")
+print("\n*****Python Calculator*****")
 
 escolha = 0
 
@@ -103,6 +103,3 @@ if restart == "sim":
 else:
     print("\nObrigado, estamos fechando a calculadora!")
     sys.exit(0)
-
-
-
